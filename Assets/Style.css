@@ -29,7 +29,6 @@
     }   
      .nav_links li a:hover {
     color: #FF5C00
-    transition: .4s;
     }
     button {
         padding: 9px 20px;
