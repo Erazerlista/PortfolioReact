@@ -28,6 +28,10 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 https://github.com/Erazerlista/erazerlista.github.io
 
+# Deployed Website
+
+https://erazerlista.github.io/Design-Portfolio/
+
 # References
 
 https://www.youtube.com/watch?v=GdrbE-s5DgQ&t=314s
