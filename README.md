@@ -38,3 +38,7 @@ https://www.youtube.com/watch?v=GdrbE-s5DgQ&t=314s
 https://www.youtube.com/watch?v=PwWHL3RyQgk&t=645s
 animation : https://jarv.is/notes/css-waving-hand-emoji/
 https://www.youtube.com/watch?v=lgeoAUvoRJU
+
+# Design Reference
+
+In Assets I created a Figma design for my portfolio for reference.
