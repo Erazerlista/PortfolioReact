@@ -1,4 +1,4 @@
-# UX-UI-Design
+# Design
 
 Mackenzie's official portfolio for design work.
 
