@@ -1,4 +1,4 @@
-# Design
+# Design-Portfolio
 
 Mackenzie's official portfolio for design work.
 
@@ -26,7 +26,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 # Url for Code
 
-https://github.com/Erazerlista/Design-Portfolio
+https://github.com/Erazerlista/erazerlista.github.io
 
 # References
 
